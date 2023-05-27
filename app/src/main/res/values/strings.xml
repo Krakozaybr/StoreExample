@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">StoreExample</string>
+    <string name="skip">Пропустить</string>
+    <string name="confirm">Завершить</string>
+    <string name="onboard_text_1">Экспресс сбор и получение проб</string>
+    <string name="onboard_text_2">Вы быстро узнаете о результатах</string>
+    <string name="onboard_text_3">Наши врачи всегда наблюдают за вашими показателями здоровья</string>
+
+    <string name="onboard_title_1">Анализы</string>
+    <string name="onboard_title_2">Уведомления</string>
+    <string name="onboard_title_3">Мониторинг</string>
+
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="come_to_use">Войдите, чтобы пользоваться функциями приложения</string>
+    <string name="email_necessary">Вход по E-mail</string>
+    <string name="example_email">example@mail.com</string>
+    <string name="next">Далее</string>
+    <string name="another_login">Или войдите с помощью</string>
+    <string name="come_with_yandex">Войти с Яндекс</string>
+    
+    <string name="type_code">Введите код из E-mail</string>
+    <string name="repeat_can_be">Отправить код повторно можно будет через %s секунд</string>
+    <string name="repeat_code">Отправить повторно</string>
+
+    <string name="create_password">Создайте пароль</string>
+    <string name="data_security">Для защиты ваших персональных данных</string>
+
+    <string name="error">Ошибка</string>
+    <string name="email_failure">Не удалось отправить код</string>
+    <string name="code_failure">Не удалось получить токен аутентификации</string>
+    
+    <string name="name">Имя</string>
+    <string name="card_create">Создание карты пациента</string>
+    <string name="without_card">Без карты пациента вы не сможете заказать анализы</string>
+    <string name="in_card">В карте пациента будут храниться результаты анализов вас и ваших близких</string>
+
+
+    <string name="middlename">Отчество</string>
+    <string name="surname">Фамилия</string>
+    <string name="birthday">Дата рождения</string>
+
+    <string name="search_analysis">Искать анализы</string>
+    <string name="create">Создать</string>
+
+
+    <string-array name="sex">
+        <item>Пол</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+
+</resources>

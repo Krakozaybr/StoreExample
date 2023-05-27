@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="password_btn">70dp</dimen>
+    <dimen name="backspace_btn">50dp</dimen>
+</resources>
